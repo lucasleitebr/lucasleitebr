@@ -33,7 +33,7 @@
 <div>
   <a href="https://github.com/ScriptHawk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=scripthawk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripthawk&layout=compact&langs_count=5&theme=dark")
+  <img align="right" height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripthawk&layout=compact&langs_count=5&theme=dark")
 </div>
 
 
