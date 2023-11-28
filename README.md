@@ -7,9 +7,7 @@
 
 - 🤹🏽 Skills -> **HTML, CSS, JS e Python.**
 
-- 👯 Teamwork -> **Communication, Problem-Solving, Listening, Leadership**
-
-- 💬 Sobre mim -> **Amo aprender coisas novas!**
+- 💬 Sobre mim -> **Amo aprender coisas novas.**
 
 - 🎮😺 Curiosidade -> **I Love Games and Cats.**
 
@@ -31,9 +29,9 @@
 
 
 <div>
-  <a href="https://github.com/ScriptHawk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=scripthawk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="205em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripthawk&layout=compact&langs_count=5&theme=dark")
+  <a href="https://github.com/lucasleitebr">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasleitebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="205em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleitebr&layout=compact&langs_count=5&theme=dark")
 </div>
 
 
