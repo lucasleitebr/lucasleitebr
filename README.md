@@ -30,7 +30,7 @@
 
 <div>
   <a href="https://github.com/lucasleitebr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasleitebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=lucasleitebr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="205em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleitebr&layout=compact&langs_count=5&theme=dark")
 </div>
 
